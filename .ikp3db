@@ -1,6 +1,0 @@
-IKP3db - g 15:50:39,367209 - INFO - IKP3db 1.4 - Inouk Python Debugger for CPython 3.6+
-IKP3db - g 15:50:39,367404 - INFO - IKP3db listening on 127.0.0.1:15472
-IKP3db - g 15:50:39,532424 - INFO - Connected with 127.0.0.1:34154
-IKP3db - g 15:50:39,586967 - WARNING - IKP3db 1.4.1 is available on pypi.
-IKP3db - g 15:50:41,913154 - ERROR - setBreakpoint error: Line /home/ubuntu/ajuda.c:24 does not exist.
-IKP3db - g 15:52:23,872407 - INFO - Program terminated with no exit value.
