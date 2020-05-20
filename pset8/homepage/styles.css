@@ -1,0 +1,60 @@
+body {
+    font-family: "arial, sans-serif";
+    width:auto;
+}
+
+.maincontent {
+  margin:10px;
+}
+
+.contraptions {
+  margin-left:10px;
+  margin-top:10px;
+}
+
+.row {
+   display: flex;
+   flex-wrap: wrap;
+   padding:10px;
+}
+
+.row > div[class*='col-'] {
+  display: flex;
+}
+
+
+#navigation {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:black;
+}
+
+.navigation_list {
+  float: left;
+}
+
+.navigation_list_a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "ubuntu";
+}
+
+.navigation_list:hover {
+  background-color: gray;
+}
+
+#this_is_tables table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding:10px;
+}
+
+#this_is_tables th {
+  background-color:black;
+  color: white;
+}
