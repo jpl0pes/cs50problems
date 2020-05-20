@@ -1,1 +1,0 @@
-It's a simple personal website. The biggest thing in it is a link to an API in pocket that displays all the articles I've saved on my pocket app.
